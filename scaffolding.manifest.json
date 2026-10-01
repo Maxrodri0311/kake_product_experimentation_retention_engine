@@ -1,0 +1,16 @@
+{
+  "project_id": "GP-123",
+  "project_name": "kake_product_data_scientist_bridge_project",
+  "repo_name": "kake_product_experimentation_retention_engine",
+  "target_company": "Kake",
+  "target_role": "Product Data Scientist",
+  "paradigm": "DeliveryParadigm.CLI_TUI",
+  "core_algorithm": "AlgorithmFamily.WEIBULL",
+  "generated_at": "2026-09-30T16:59:03.157128+00:00",
+  "schema_version": "1.0",
+  "validation": {
+    "token_blacklist_check": "passed",
+    "ast_security_check": "passed",
+    "py_compile_check": "passed"
+  }
+}
